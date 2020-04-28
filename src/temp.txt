@@ -1,0 +1,9 @@
+﻿// テンプレート集
+// ダンプソース
+trace( [ 
+	"tAng : " + Math.floor(tAng),
+	"tar.x : " + Math.floor(tar.x),
+	"tar.y : " + Math.floor(tar.y),
+	"x : " + Math.floor(x),
+	"y : " + Math.floor(y) 
+]);
